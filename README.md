@@ -1,4 +1,4 @@
-# SQL-Stepik-Course
+# Stepik_SQL_Course
 
 
 ### Основы реляционной модели и SQL <br />
